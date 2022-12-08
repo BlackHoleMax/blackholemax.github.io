@@ -3,11 +3,11 @@
   <title>BlackHole&#39;s blog</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://blackholemax.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://blackholemax.github.io/"/>
   <updated>2022-11-20T10:04:28.704Z</updated>
-  <id>http://example.com/</id>
+  <id>https://blackholemax.github.io/</id>
   
   <author>
     <name>BlackHoleMax</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>windows平台最好的包管理器：scoop</title>
-    <link href="http://example.com/2022/11/20/scoop-package-manager/"/>
-    <id>http://example.com/2022/11/20/scoop-package-manager/</id>
+    <link href="https://blackholemax.github.io/2022/11/20/scoop-package-manager/"/>
+    <id>https://blackholemax.github.io/2022/11/20/scoop-package-manager/</id>
     <published>2022-11-20T05:39:02.458Z</published>
     <updated>2022-11-20T10:04:28.704Z</updated>
     
@@ -33,17 +33,17 @@
     
     
     
-    <category term="Tools" scheme="http://example.com/categories/Tools/"/>
+    <category term="Tools" scheme="https://blackholemax.github.io/categories/Tools/"/>
     
     
-    <category term="基础教程" scheme="http://example.com/tags/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/"/>
+    <category term="基础教程" scheme="https://blackholemax.github.io/tags/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>如何成为一名安那其主义者</title>
-    <link href="http://example.com/2022/11/15/BeAnarchist/"/>
-    <id>http://example.com/2022/11/15/BeAnarchist/</id>
+    <link href="https://blackholemax.github.io/2022/11/15/BeAnarchist/"/>
+    <id>https://blackholemax.github.io/2022/11/15/BeAnarchist/</id>
     <published>2022-11-15T14:16:55.824Z</published>
     <updated>2022-11-18T11:24:12.365Z</updated>
     
@@ -58,17 +58,17 @@
     
     
     
-    <category term="社会" scheme="http://example.com/categories/%E7%A4%BE%E4%BC%9A/"/>
+    <category term="社会" scheme="https://blackholemax.github.io/categories/%E7%A4%BE%E4%BC%9A/"/>
     
     
-    <category term="安那其" scheme="http://example.com/tags/%E5%AE%89%E9%82%A3%E5%85%B6/"/>
+    <category term="安那其" scheme="https://blackholemax.github.io/tags/%E5%AE%89%E9%82%A3%E5%85%B6/"/>
     
   </entry>
   
   <entry>
     <title>知识革命宣言</title>
-    <link href="http://example.com/2022/10/28/Science-share/"/>
-    <id>http://example.com/2022/10/28/Science-share/</id>
+    <link href="https://blackholemax.github.io/2022/10/28/Science-share/"/>
+    <id>https://blackholemax.github.io/2022/10/28/Science-share/</id>
     <published>2022-10-27T17:18:59.098Z</published>
     <updated>2022-11-20T06:53:23.378Z</updated>
     
@@ -83,17 +83,17 @@
     
     
     
-    <category term="社会" scheme="http://example.com/categories/%E7%A4%BE%E4%BC%9A/"/>
+    <category term="社会" scheme="https://blackholemax.github.io/categories/%E7%A4%BE%E4%BC%9A/"/>
     
     
-    <category term="知识主义" scheme="http://example.com/tags/%E7%9F%A5%E8%AF%86%E4%B8%BB%E4%B9%89/"/>
+    <category term="知识主义" scheme="https://blackholemax.github.io/tags/%E7%9F%A5%E8%AF%86%E4%B8%BB%E4%B9%89/"/>
     
   </entry>
   
   <entry>
     <title>从Python3快速开始</title>
-    <link href="http://example.com/2022/10/02/python-start/"/>
-    <id>http://example.com/2022/10/02/python-start/</id>
+    <link href="https://blackholemax.github.io/2022/10/02/python-start/"/>
+    <id>https://blackholemax.github.io/2022/10/02/python-start/</id>
     <published>2022-10-02T11:00:49.876Z</published>
     <updated>2022-10-29T17:56:28.610Z</updated>
     
@@ -108,17 +108,17 @@
     
     
     
-    <category term="Python" scheme="http://example.com/categories/Python/"/>
+    <category term="Python" scheme="https://blackholemax.github.io/categories/Python/"/>
     
     
-    <category term="基础教程" scheme="http://example.com/tags/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/"/>
+    <category term="基础教程" scheme="https://blackholemax.github.io/tags/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>对赛里斯体制的批判</title>
-    <link href="http://example.com/2022/09/11/family-and-social/"/>
-    <id>http://example.com/2022/09/11/family-and-social/</id>
+    <link href="https://blackholemax.github.io/2022/09/11/family-and-social/"/>
+    <id>https://blackholemax.github.io/2022/09/11/family-and-social/</id>
     <published>2022-09-11T14:41:39.962Z</published>
     <updated>2022-11-25T05:40:22.551Z</updated>
     
@@ -132,17 +132,17 @@
     
     
     
-    <category term="社会" scheme="http://example.com/categories/%E7%A4%BE%E4%BC%9A/"/>
+    <category term="社会" scheme="https://blackholemax.github.io/categories/%E7%A4%BE%E4%BC%9A/"/>
     
     
-    <category term="泛泛而谈" scheme="http://example.com/tags/%E6%B3%9B%E6%B3%9B%E8%80%8C%E8%B0%88/"/>
+    <category term="泛泛而谈" scheme="https://blackholemax.github.io/tags/%E6%B3%9B%E6%B3%9B%E8%80%8C%E8%B0%88/"/>
     
   </entry>
   
   <entry>
     <title>正在施工🚧</title>
-    <link href="http://example.com/2022/09/03/hello-world/"/>
-    <id>http://example.com/2022/09/03/hello-world/</id>
+    <link href="https://blackholemax.github.io/2022/09/03/hello-world/"/>
+    <id>https://blackholemax.github.io/2022/09/03/hello-world/</id>
     <published>2022-09-03T13:19:11.679Z</published>
     <updated>2022-11-20T06:53:28.609Z</updated>
     
@@ -158,10 +158,10 @@
     
     
     
-    <category term="日常" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="https://blackholemax.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
     
     
-    <category term="上线" scheme="http://example.com/tags/%E4%B8%8A%E7%BA%BF/"/>
+    <category term="上线" scheme="https://blackholemax.github.io/tags/%E4%B8%8A%E7%BA%BF/"/>
     
   </entry>
   
