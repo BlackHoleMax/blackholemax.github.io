@@ -6,7 +6,7 @@
   <link href="https://blackholemax.github.io/atom.xml" rel="self"/>
   
   <link href="https://blackholemax.github.io/"/>
-  <updated>2022-11-20T10:04:28.704Z</updated>
+  <updated>2022-12-26T14:41:29.428Z</updated>
   <id>https://blackholemax.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>FarmerAndDonkey</title>
+    <link href="https://blackholemax.github.io/2022/12/26/FarmerAndDonkey/"/>
+    <id>https://blackholemax.github.io/2022/12/26/FarmerAndDonkey/</id>
+    <published>2022-12-26T14:36:38.492Z</published>
+    <updated>2022-12-26T14:41:29.428Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="农场主与笨驴"><a href="#农场主与笨驴" class="headerlink" title="农场主与笨驴"></a>农场主与笨驴</h1><p>从前有一个农场主，他买来许多驴子为自己拉磨。可是这些驴子总是无精打采的样子，拉磨的时候看起来又慢又笨。于是农场主想出了一个办法，他在驴子的头上吊起一根胡萝卜，这样驴子就会控制不了食欲而追着胡萝卜跑起来了。</p><p>如此，刚开始的时候，驴子们见到了垂涎已久的胡萝卜，纷纷都不要命似的拉起磨来。但是时间久了，农场主发现，很多驴子发现自己怎么都追不上近在咫尺的胡萝卜，于是又变回了它们原本懒散的状态。于是这位机智的农场主又想出了一个法子：也许只需要给这些懒惰的驴子一点威慑就行了。于是农场主改日就养了一条忠实且凶狠的猎犬来监督这些懒惰的驴子拉磨，倒是很快见了成效，在猎犬的威慑下，没有驴子敢轻易在拉磨时偷闲。可是一个月后，驴子们逐渐发现猎犬也并非那么可怕，反而是这些驴子跺几下蹄子的声势给猎犬吓得不轻。</p><p>这下这可令农场主难堪了，想着自己还得靠这些驴子吃上饭呢，这可如何是好。于是农场主只好带上些银两，看看能不能上街讨一些生意来。农场主听闻街上来了一位四处游历的学士，交些银两便能得些锦囊妙计。农场主便向这学士请教了这一问题。</p><p>回到农场后，农场主又多养了几条猎犬，告诉它们每天都准备一根胡萝卜 ，并且把这根胡萝卜奖给拉磨最多的那只驴子。</p><p>果不其然，这些驴子比原本拉磨效率快多了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;农场主与笨驴&quot;&gt;&lt;a href=&quot;#农场主与笨驴&quot; class=&quot;headerlink&quot; title=&quot;农场主与笨驴&quot;&gt;&lt;/a&gt;农场主与笨驴&lt;/h1&gt;&lt;p&gt;从前有一个农场主，他买来许多驴子为自己拉磨。可是这些驴子总是无精打采的样子，拉磨的时候看起来又慢又笨。于是农</summary>
+      
+    
+    
+    
+    <category term="文学" scheme="https://blackholemax.github.io/categories/%E6%96%87%E5%AD%A6/"/>
+    
+    
+    <category term="寓言" scheme="https://blackholemax.github.io/tags/%E5%AF%93%E8%A8%80/"/>
+    
+  </entry>
   
   <entry>
     <title>windows平台最好的包管理器：scoop</title>
