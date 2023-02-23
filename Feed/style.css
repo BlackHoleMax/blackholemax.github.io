@@ -1,0 +1,13 @@
+.box {
+    display: flex;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+}
+.logo {
+    border-radius: 34px;
+    width: 50%;
+    height: 30%;
+}
